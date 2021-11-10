@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Signs_of_Life.Checking">
+    <Position X="10.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAgAQAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Checking.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Signs_of_Life.Clue">
+    <Position X="4.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Signs_of_Life.Game">
+    <Position X="7.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEJQAAAAAAAAAAEEAEACABAAAAEAAAAAAAUA=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Signs_of_Life.Person">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAgAAAAAAAAAAQAAAAABAAAAAABAAAAAAA=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Signs_of_Life.Location">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAgIAACADAQAAAABAAAAAAgAAAEBAAAwgA=</HashCode>
+      <FileName>Location.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Signs_of_Life.Scuba_Man" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAEBAIAAAABAAAAAAA=</HashCode>
+      <FileName>Scuba Man.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Signs_of_Life.Player">
+    <Position X="8.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAIAAAAAAAABAAIAAACAAEAAgAAAAAAAAAACCAAAA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Signs_of_Life.Kiara" Collapsed="true">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAACAAAAAIAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Kiara.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Signs_of_Life.Ina" Collapsed="true">
+    <Position X="2.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAQAAAAABAAAABAAAAAAAAA=</HashCode>
+      <FileName>Ina.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Signs_of_Life.Gura" Collapsed="true">
+    <Position X="2.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQAAAAAAQAgAAAAAAAAAAQAAAACBAAAABAAAAAAAAA=</HashCode>
+      <FileName>Gura.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
